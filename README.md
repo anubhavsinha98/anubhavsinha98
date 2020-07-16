@@ -1,4 +1,13 @@
 ### Hi there 👋
+Hi, I'm Anubhav Sinha, a Full Stack developer 🚀 from India, currently a final year student 🎓 studying in [JIIT Noida](https://www.jiit.ac.in).
+<br>
+<br>
+<a href="https://www.linkedin.com/in/anubhav-sinha-34b40531">
+  <img align="left" alt="Anubhav's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://medium.com/@anubhavsinha98">
+  <img align="left" alt="Anubhav's Medium" width="22px" src="http://pluspng.com/img-png/medium-logo-png-monogram-minimum-digital-size-20-pixels-height-195.png" />
+</a>
 
 <!--
 **anubhavsinha98/anubhavsinha98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
