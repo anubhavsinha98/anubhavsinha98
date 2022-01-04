@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi, I'm Anubhav Sinha, a Full Stack developer 🚀 from India, currently a final year student 🎓 studying in [JIIT Noida](https://www.jiit.ac.in).
+Hi, I'm Anubhav Sinha, a Full Stack developer 🚀 from India, currently working in Amazon as a Software Development Engineer.
 <br>
 <br>
 <a href="https://www.linkedin.com/in/anubhav-sinha-34b40531">
